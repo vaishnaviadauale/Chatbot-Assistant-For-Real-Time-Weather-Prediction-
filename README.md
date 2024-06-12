@@ -56,22 +56,26 @@ Ensures timely updates and notifications for critical weather changes.
 13.Getting the model's accuracy
 
 
-Conclusion
+# Conclusion
 The Chatbot-Assistant-For-Real-Time-Weather-Prediction project aims to revolutionize how users access and interact with weather information. By providing real-time, aggregated, and personalized weather updates through an interactive chatbot interface, this solution addresses the limitations of current weather services and enhances the overall user experience.
 
-## Future additions to enhance Weather Prediction Chat application:
+# Future additions to enhance Weather Prediction Chat application:
 
-## 1.Get Live Data Through API and Autosave to Database Without Human Interruption:
+### 1.Get Live Data Through API and Autosave to Database Without Human Interruption:
 - Implement a mechanism to periodically fetch live weather data through an API without requiring user interaction.
 - Set up automatic saving of this data to a database to ensure it's always up-to-date and readily available for predictions.
 
-## 2.Deploy in AWS (Amazon Web Services):
+### 2.Deploy in AWS (Amazon Web Services):
 - Utilize AWS services such as EC2 (Elastic Compute Cloud) for hosting your application, RDS (Relational Database Service) for database management, and perhaps S3 (Simple Storage Service) for storing static assets like images.
 - Deploying your application on AWS ensures scalability, reliability, and ease of management.
 
-## 3.Use Another Machine Learning Model to Improve Accuracy:
+### 3.Use Another Machine Learning Model to Improve Accuracy:
 - Explore different machine learning models such as Random Forest, Gradient Boosting, or even deep learning models like Neural Networks to improve the accuracy of weather predictions.
 - Evaluate the performance of these models and choose the one that provides the best results for your application.
+
+  # GUI Of Chatbot -
+  ![Screenshot (167)](https://github.com/vaishnaviadauale/Chatbot-Assistant-For-Real-Time-Weather-Prediction-/assets/114101523/d97e9623-b6f6-42f9-bd9d-9e29ad277d7c)
+
 
 
 
