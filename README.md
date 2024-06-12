@@ -24,7 +24,6 @@ Ensures timely updates and notifications for critical weather changes.
 
 4.Scikit-Learn (for data modeling)
 
-
 5.Pyplotly(for data Visualization)
 
 6.Urllib.parse-(for tkinter)
@@ -38,6 +37,7 @@ Ensures timely updates and notifications for critical weather changes.
 
 4.Data-Preprocessing
       Label encoding
+      
 5.Data Visualization
 
 6.Correlation Matrix Countplots 
